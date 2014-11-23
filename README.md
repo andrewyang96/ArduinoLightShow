@@ -1,9 +1,17 @@
 ArduinoLightShow
 ================
 
-Hack with Arduino and PyDub at WildHacks 2014.
+Hack with Arduino and PyDub at WildHacks 2014. LED lights on board will light according to changes in amplitudes at lower frequencies.
+
+Best suited for EDM music.
+
 Tested with Arduino Uno. Check pics folder for configuration.
+
+Configuration
+-------------
+
 LED lights are plugged into pins 6-12.
+
 One multicolor light is plugged into pins 3-5.
 
 Steps
