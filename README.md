@@ -28,3 +28,11 @@ Future Improvements
 - Automate python script input -> .ino output **OR** modify .ino to read files.
 - Remove triggers that are too close to each other.
 - If possible, automatically play music in sync with lights (when program starts).
+
+Credits
+-------
+Credit to The Living Tombstone and Andrew Gold for music.
+
+License
+-------
+This project is licensed under the terms of the MIT license.
